@@ -1,3 +1,14 @@
+__My Remarks:__ 
+
+1. This file is only the project overview, my code primarily implemented in [my_air_cargo_problems.py](https://github.com/Amichai-a/AIND-Planning-master/blob/master/my_air_cargo_problems.py) and in [my_planning_graph.py](https://github.com/Amichai-a/AIND-Planning-master/blob/master/my_planning_graph.py)
+
+2. On this project I used a combination of propositional logic and search 
+
+3. I used A* heuristics, succeed in finding optimal planning fast and using low memory
+
+4. You can find my heuristic analysis in [heuristic_analysis.pdf](https://github.com/Amichai-a/AIND-Planning-master/blob/master/heuristic_analysis.pdf)
+
+5. In [research_review.pdf](https://github.com/Amichai-a/AIND-Planning-master/blob/master/research_review.pdf) you can find a short review of mine, describes 3 of historical developments in AI Planning
 
 # Implement a Planning Search
 
